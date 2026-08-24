@@ -1,0 +1,10 @@
+{
+  "name": "Community College of Denver",
+  "slug": "ccd",
+  "domain": "ccd.edu",
+  "baseUrl": "https://ccd.edu",
+  "toolingRepo": "audit-ccd.edu",
+  "resultsRepo": "ccd-audit",
+  "siteName": "Community College of Denver",
+  "canonicalSiteUrl": "https://thirstyhead.com/ccd-audit/"
+}
